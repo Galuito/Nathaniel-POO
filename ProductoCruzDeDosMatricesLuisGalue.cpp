@@ -5,7 +5,6 @@
 using namespace std;
 
 int main(){
-    int aux = 0;
     float suma;
     float A[3][3];
     float B[3][3];
