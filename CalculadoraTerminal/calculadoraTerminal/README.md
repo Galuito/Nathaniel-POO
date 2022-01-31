@@ -4,7 +4,7 @@ Bienvenido profesor, este programa fue desarrollado en el IDE Visual Studio Code
 
 ## Estructura de las Carpetas
 
-lib - Tendria librerias si las hubiera usado
+lib - Tendria librerias si las hubiera usado\n
 src - tiene lo que es la aplicacion llamada calculadoraTerminal.java
 
 ## Aclaración
